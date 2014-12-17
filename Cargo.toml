@@ -9,11 +9,15 @@ license = "MIT"
 
 [dependencies]
 iron = "*"
-mount = "*"
 time = "*"
 router = "*"
 
 [dependencies.iron-test]
+
 git = "https://github.com/SlightlyCyborg/iron-test.git"
+
+[dependencies.mount]
+
+git = "https://github.com/iron/mount.git"
 
 
